@@ -5,8 +5,8 @@ import Shop from './Components/Shop/Shop';
 
 function App() {
   return (
-    <div>
-      <h2>Assignment</h2>
+    <div className='header'>
+      <h2>Random Choose Earbuds</h2>
      <Shop></Shop>
     </div>
   );

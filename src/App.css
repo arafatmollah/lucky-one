@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.header h2{
+  text-align: center;
+  font-size: 40px;
+  color: rgba(170, 75, 218, 0.753);
+}
 
 .App-logo {
   height: 40vmin;
