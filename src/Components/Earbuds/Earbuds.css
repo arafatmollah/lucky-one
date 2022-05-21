@@ -1,0 +1,14 @@
+.details img{
+    height: 300px;
+    width: 300px;
+}
+details{
+    width: 300px;
+}
+.btn-cart{
+    background-color: rgba(137, 43, 226, 0.323);
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 17px;
+}
