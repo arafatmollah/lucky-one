@@ -8,6 +8,7 @@ function App() {
   return (
     <div className='header'>
       <h2>Random Choose Earbuds</h2>
+      <p className='choose'>Choose your Earbuds</p>
       <Shop></Shop>
       <Questions></Questions>
     </div>

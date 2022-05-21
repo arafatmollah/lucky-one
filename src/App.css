@@ -8,6 +8,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.header .choose{
+  text-align: center;
+  color:rgba(170, 75, 218, 0.753);
+  font-size: 22px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
