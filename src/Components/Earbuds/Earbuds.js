@@ -3,7 +3,7 @@ import './Earbuds.css'
 
 const Earbuds = (props) => {
     // console.log(props.products);
-    const { picture,name,price } = props.products;
+    const { picture,name,price } = props.product;
     return (
         <div className='details'>
             <img src={picture} alt=""></img>
