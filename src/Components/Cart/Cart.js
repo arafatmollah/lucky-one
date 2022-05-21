@@ -24,7 +24,7 @@ const Cart = (props) => {
 
                 <button onClick={chooseOne} className='btnRandom'>Choose 1 for me!</button>
 
-                <button className='btnRandom'>Choose Again!</button>
+                <button onClick={chooseOne} className='btnRandom'>Choose Again!</button>
                 <p>Lucky: { luckyname}</p>
                 
             </div>
