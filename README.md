@@ -1,5 +1,5 @@
 # Project Name: Lucky One Earbuds
-## Live Site Link: <a href="https://lucky-one-arafat.netlify.app/">Lucky One Earbuds</a>
+## Live Site Link: <a href="https://lucky-one-arafat.netlify.app/" target="_blank">Lucky One Earbuds</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
