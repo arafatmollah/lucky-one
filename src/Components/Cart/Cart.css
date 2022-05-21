@@ -19,6 +19,7 @@
     .cart{
         position: sticky;
         top: 0;
+        height: 600px;
     }
   }
 .cart p{
