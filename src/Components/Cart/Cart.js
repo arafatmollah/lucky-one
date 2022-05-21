@@ -19,9 +19,8 @@ const Cart = (props) => {
     return (
         <div className='cart'>
             <div>
+                <p className='select'>Select Earbuds</p>
                 <p className='name'>Name: {productName}</p>
-                <p></p>
-
                 <button onClick={chooseOne} className='btnRandom'>Choose 1 for me!</button>
 
                 <button onClick={chooseOne} className='btnRandom'>Choose Again!</button>
