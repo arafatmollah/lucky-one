@@ -3,8 +3,8 @@ import './Questions.css'
 
 const Questions = () => {
     return (
-        <div>
-            <h4>Props Vs State</h4>
+        <div className='answer'>
+            <h3>Props Vs State</h3>
             <ol>
                 <p>Props</p>
                 <li>Props are read-only.</li>

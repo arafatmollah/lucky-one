@@ -6,3 +6,7 @@ ol li{
     color: rgb(36, 36, 36);
     font-size: 17px;
 }
+.answer{
+    background-color: rgb(13, 220, 220);
+    padding: 15px;
+}
