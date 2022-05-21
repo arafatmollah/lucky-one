@@ -15,8 +15,12 @@ const Shop = () => {
     }, [])
     
     const handleCart = (product) => {
-        const newCart = [...cart, product];
-        setCart(newCart)
+/*         const newCart = [...cart, product];
+        setCart(newCart) */
+        setCart(prev => {
+            const newCart = [...prev, product];
+            return newCart;
+        })
     }
     return (
         <div className='shop'>
