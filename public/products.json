@@ -1,0 +1,53 @@
+[
+    {
+      "_id": "6287d39898bb75ee5f8ba321",
+      "price": "$176.79",
+      "picture": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036",
+      "name": "Apple Ear Buds",
+      "company": "APPLE"
+    },
+    {
+      "_id": "6287d398d496f9867ff1c394",
+      "price": "$341.26",
+      "picture": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=865",
+      "name": "Apple HeadSet",
+      "gender": "male",
+      "company": "APPLE"
+    },
+    {
+      "_id": "6287d39824c1085fd412a0f6",
+      "price": "$139.29",
+      "picture": "https://images.unsplash.com/photo-1547052178-7f2c5a20c332?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+      "name": "Samsung Mini Speaker",
+      "gender": "male",
+      "company": "SAMSUNG"
+    },
+    {
+      "_id": "6287d398874ef2bb45b0b7bf",
+      "price": "$399.25",
+      "picture": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036",
+      "name": "Apple Ear Buds Pro",
+      "company": "APPLE"
+    },
+    {
+      "_id": "6287d398c5c4ac39ea1457e8",
+      "price": "$161.42",
+      "picture": "https://images.unsplash.com/photo-1590658006821-04f4008d5717?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032",
+      "name": "Pixel Buds",
+      "company": "GOOGLE"
+    },
+    {
+      "_id": "6287d398c5c4ac39ea1457e8",
+      "price": "$161.42",
+      "picture": "https://images.unsplash.com/photo-1590658131999-90988169cd48?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032",
+      "name": "Pixel Buds Mini",
+      "company": "GOOGLE"
+    },
+    {
+      "_id": "6287d398c5c4ac39ea1457e8",
+      "price": "$161.42",
+      "picture": "https://images.unsplash.com/photo-1591923271591-478bb32b57ca?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032",
+      "name": "Microsoft Surface Earbuds in Charging Case",
+      "company": "MICROSOFT"
+    }
+  ]

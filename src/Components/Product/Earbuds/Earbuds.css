@@ -1,0 +1,19 @@
+.product img{
+    height: 280px;
+    width: 280px;
+}
+.product{
+    height: 400px;
+}
+.name{
+    font-size: 21px;
+}
+.btn-cart{
+    border: none;
+    background-color: rgba(156, 72, 234, 0.386);
+    color: white;
+    font-size: 16px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
